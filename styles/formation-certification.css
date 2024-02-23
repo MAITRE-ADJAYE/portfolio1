@@ -1,0 +1,241 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 148.2rem;
+}.formation-certification-yiW {
+  width: 100%;
+  height: 160rem;
+  position: relative;
+  background: linear-gradient(180deg, #a0cf93 -0%, #fefcfe 100%);
+}
+.formation-certification-yiW .auto-group-g8ce-7pi {
+  box-sizing: border-box;
+  padding: 8.8rem 8.7rem 6.4rem 8.7rem;
+  width: 128.2rem;
+  height: 42.1rem;
+  position: absolute;
+  left: 11.8rem;
+  top: 18.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/comi-2-1-bg-wFk.png');
+}
+.formation-certification-yiW .auto-group-g8ce-7pi .paragraphe-2Az {
+  box-sizing: border-box;
+  padding: 0 16.15rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.formation-certification-yiW .auto-group-g8ce-7pi .paragraphe-2Az .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-Nke {
+  max-width: 78.5rem;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.formation-certification-yiW .header-GLE {
+  box-sizing: border-box;
+  padding: 2.748rem 0.082rem 2.748rem 8.1rem;
+  width: 131.8778rem;
+  height: 10.0435rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 2.4rem;
+  overflow: hidden;
+}
+.formation-certification-yiW .header-GLE .frame-16-a62 {
+  box-sizing: border-box;
+  padding: 0.54rem 0rem 0.54rem 0rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.formation-certification-yiW .header-GLE .frame-16-a62 .btnmenusimple-u8J {
+  margin-right: 5.2rem;
+  width: 9.1rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.formation-certification-yiW .header-GLE .frame-16-a62 .btnmenusimple-C7Q {
+  margin-right: 5.2rem;
+  width: 19.8rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.formation-certification-yiW .header-GLE .frame-16-a62 .btnmenusimple-5gz {
+  margin-right: 5.2rem;
+  width: 8.4rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.formation-certification-yiW .header-GLE .frame-16-a62 .btnmenusimple-nrJ {
+  margin-right: 6.9478rem;
+  width: 16.5rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.formation-certification-yiW .header-GLE .frame-16-a62 .btnmenuclick-scr {
+  margin: 0.284rem 6.948rem 0.184rem 0rem;
+  width: 30.8rem;
+  height: calc(100% - 0.4685rem);
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-decoration-line: underline;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.formation-certification-yiW .header-GLE .frame-16-a62 .btnmenusimple-MH8 {
+  width: 9.6rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.formation-certification-yiW .tlchargement-4-1-eX8 {
+  width: 37.2rem;
+  height: 36rem;
+  position: absolute;
+  left: 62.4rem;
+  top: 85.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.formation-certification-yiW .wwwfablabcom-xni {
+  width: 26.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 67.95rem;
+  top: 124.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.1333333121;
+  text-decoration-line: underline;
+  color: #1f213d;
+  font-family: Ligconsolata, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.formation-certification-yiW .formation-en-dveloppement-web-mobile-TjU {
+  width: 102.6rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 31.1rem;
+  top: 72.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.0399999619;
+  letter-spacing: 0.32rem;
+  color: #000000;
+  font-family: Modern Antiqua, 'Source Sans Pro';
+}
+.formation-certification-yiW .header-XzE {
+  box-sizing: border-box;
+  padding: 14.325rem 0rem 11.9rem 120.9rem;
+  width: 92.6rem;
+  height: 35.7rem;
+  position: absolute;
+  left: 0;
+  top: 18.5rem;
+  overflow: hidden;
+}
+.formation-certification-yiW .header-XzE .frame-18-rmc {
+  width: 9.475rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}

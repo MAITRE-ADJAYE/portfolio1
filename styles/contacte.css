@@ -1,0 +1,345 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 148.2rem;
+}.contacte-uSN {
+  width: 100%;
+  height: 160rem;
+  position: relative;
+  background: linear-gradient(180deg, #a0cf93 -0%, #fefcfe 100%);
+}
+.contacte-uSN .auto-group-ldnw-fAe {
+  box-sizing: border-box;
+  padding: 11.7rem 36.75rem 15.3rem 29.75rem;
+  width: 128.2rem;
+  height: 42.1rem;
+  position: absolute;
+  left: 11.8rem;
+  top: 18.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/comi-2-1-bg-5GA.png');
+}
+.contacte-uSN .auto-group-ldnw-fAe .paragraphe-kxn {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contacte-uSN .header-qjL {
+  box-sizing: border-box;
+  padding: 2.748rem 4.082rem 2.748rem 8.1rem;
+  width: 131.8778rem;
+  height: 10.0435rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 2.4rem;
+  overflow: hidden;
+}
+.contacte-uSN .header-qjL .frame-16-Z9Y {
+  box-sizing: border-box;
+  padding: 0.54rem 2.448rem 0.54rem 0rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.contacte-uSN .header-qjL .frame-16-Z9Y .btnmenusimple-gV4 {
+  margin-right: 5.2rem;
+  width: 9.1rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.contacte-uSN .header-qjL .frame-16-Z9Y .btnmenusimple-Nsg {
+  margin-right: 5.2rem;
+  width: 19.8rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.contacte-uSN .header-qjL .frame-16-Z9Y .btnmenusimple-Ufp {
+  margin-right: 5.2rem;
+  width: 8.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.contacte-uSN .header-qjL .frame-16-Z9Y .btnmenusimple-Bq8 {
+  margin-right: 5.2rem;
+  width: 16.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.contacte-uSN .header-qjL .frame-16-Z9Y .btnmenusimple-Juk {
+  margin-right: 7.6478rem;
+  width: 24.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.contacte-uSN .header-qjL .frame-16-Z9Y .btnmenuclick-Dmp {
+  margin: 0.284rem 0rem 0.184rem 0rem;
+  width: 10.2rem;
+  height: calc(100% - 0.4685rem);
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-decoration-line: underline;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.contacte-uSN .dmarrons-un-projet-ensemble-nhsitez-pas-me-contacter-td4 {
+  width: 104.8rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 21.75rem;
+  top: 63.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.0399999619;
+  letter-spacing: 0.32rem;
+  color: rgba(0, 0, 0, 0.7400000095);
+  font-family: Modern Antiqua, 'Source Sans Pro';
+}
+.contacte-uSN .frame-4-kfG {
+  box-sizing: border-box;
+  padding-right: 39.9rem;
+  width: 84rem;
+  height: 7rem;
+  position: absolute;
+  left: 27.9rem;
+  top: 80rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: rgba(180, 170, 170, 0.3400000036);
+}
+.contacte-uSN .frame-4-kfG .appelle--rCW {
+  margin-top: 0.4rem;
+  width: 8.9rem;
+  height: 6.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contacte-uSN .frame-4-kfG .tlchargement-7-1-aPQ {
+  margin-right: 6.4rem;
+  width: 8.5rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contacte-uSN .frame-4-kfG .item-066-80-78-20-iEi {
+  margin-bottom: 0.4rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.1333333015;
+  color: #000000;
+  font-family: Ligconsolata, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contacte-uSN .frame-5-1jc {
+  box-sizing: border-box;
+  padding: 0.5rem 37.55rem 0.5rem 4.85rem;
+  width: 84.5rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 93rem;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  background-color: rgba(180, 170, 170, 0.3400000036);
+}
+.contacte-uSN .frame-5-1jc .email--KkJ {
+  margin: 0.4rem 2.5rem 0rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1333333254;
+  font-family: Suez One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contacte-uSN .frame-5-1jc .adjaye86gmailcom-rVL {
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.1333333121;
+  color: #000000;
+  font-family: Ligconsolata, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contacte-uSN .auto-group-skdl-NyU {
+  width: 25.4rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 29rem;
+  top: 104.6rem;
+  display: flex;
+  align-items: center;
+}
+.contacte-uSN .auto-group-skdl-NyU .facebook-7RG {
+  margin-right: 7.9rem;
+  width: 8.4rem;
+  height: 7.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contacte-uSN .auto-group-skdl-NyU .linkedin-evz {
+  width: 9.1rem;
+  height: 7.8rem;
+  position: relative;
+  background-size: 100% 126.923%;
+  background-position: 0 -1.05rem;
+  background-image: url('../assets/linkedin.png');
+  flex-shrink: 0;
+}
+.contacte-uSN .auto-group-stdk-APY {
+  width: 24.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 29.85rem;
+  top: 114.1rem;
+  display: flex;
+  align-items: center;
+}
+.contacte-uSN .auto-group-stdk-APY .facebook-JEr {
+  margin: 0.2rem 6.2rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1333333651;
+  color: #000000;
+  font-family: Ligconsolata, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contacte-uSN .auto-group-stdk-APY .linkedin-cFY {
+  margin-bottom: 0.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.1333333651;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Ligconsolata, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contacte-uSN .header-LBY {
+  box-sizing: border-box;
+  padding: 14.325rem 0rem 11.9rem 120.9rem;
+  width: 92.6rem;
+  height: 35.7rem;
+  position: absolute;
+  left: 0;
+  top: 18.5rem;
+  overflow: hidden;
+}
+.contacte-uSN .header-LBY .frame-18-Ryg {
+  width: 9.475rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}

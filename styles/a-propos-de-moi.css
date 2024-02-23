@@ -1,0 +1,261 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 148.2rem;
+}.a-propos-de-moi-x86 {
+  width: 100%;
+  height: 160rem;
+  position: relative;
+  background: linear-gradient(180deg, #a0cf93 -0%, #fefcfe 100%);
+}
+.a-propos-de-moi-x86 .auto-group-fpux-6EJ {
+  box-sizing: border-box;
+  padding: 11.7rem 25.15rem 15.3rem 18.15rem;
+  width: 128.2rem;
+  height: 42.1rem;
+  position: absolute;
+  left: 11.8rem;
+  top: 18.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/comi-2-1-bg-yHY.png');
+}
+.a-propos-de-moi-x86 .auto-group-fpux-6EJ .paragraphe-nsp {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.a-propos-de-moi-x86 .frame-2-e9L {
+  box-sizing: border-box;
+  padding: 0.2rem 4.8rem 0rem 4.8rem;
+  width: 133rem;
+  height: 47.2rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 76.1rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.a-propos-de-moi-x86 .frame-2-e9L .paragraphe-Xiv {
+  margin-bottom: 18.3rem;
+  width: 100%;
+  height: 23.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.a-propos-de-moi-x86 .frame-2-e9L .paragraphe-Xiv .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-4ir {
+  max-width: 123.4rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.1708984375;
+  color: #000000;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.a-propos-de-moi-x86 .frame-2-e9L .paragraphe-Xiv .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-4ir .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-4ir-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.a-propos-de-moi-x86 .frame-2-e9L .paragraphe-Xiv .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-4ir .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-4ir-sub-1 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.a-propos-de-moi-x86 .frame-2-e9L .frame-2-Kwc {
+  margin-left: 58.7rem;
+  width: 18.9rem;
+  height: 5.5rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.1333332929;
+  font-family: Suez One, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(58, 64, 202, 0.8600000143);
+  flex-shrink: 0;
+}
+.a-propos-de-moi-x86 .header-1ZY {
+  box-sizing: border-box;
+  padding: 2.748rem 4.082rem 2.748rem 8.1rem;
+  width: 131.8778rem;
+  height: 10.0435rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 2.4rem;
+  overflow: hidden;
+}
+.a-propos-de-moi-x86 .header-1ZY .frame-16-u98 {
+  box-sizing: border-box;
+  padding: 0.54rem 0rem 0.54rem 0rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.a-propos-de-moi-x86 .header-1ZY .frame-16-u98 .btnmenusimple-2Ue {
+  margin-right: 7.4978rem;
+  width: 9.1rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.a-propos-de-moi-x86 .header-1ZY .frame-16-u98 .btnmenuclick-XAW {
+  margin: 0.284rem 7.498rem 0.184rem 0rem;
+  width: 20.7rem;
+  height: calc(100% - 0.4685rem);
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-decoration-line: underline;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.a-propos-de-moi-x86 .header-1ZY .frame-16-u98 .btnmenusimple-oNv {
+  margin-right: 5.2rem;
+  width: 8.4rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.a-propos-de-moi-x86 .header-1ZY .frame-16-u98 .btnmenusimple-hUJ {
+  margin-right: 5.2rem;
+  width: 16.5rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.a-propos-de-moi-x86 .header-1ZY .frame-16-u98 .btnmenusimple-oXL {
+  margin-right: 5.2rem;
+  width: 24.8rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.a-propos-de-moi-x86 .header-1ZY .frame-16-u98 .btnmenusimple-6WS {
+  width: 9.6rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.a-propos-de-moi-x86 .header-Q1L {
+  width: 9.475rem;
+  height: 9.475rem;
+  position: absolute;
+  left: 120.9rem;
+  top: 32.8247rem;
+  overflow: hidden;
+}
+.a-propos-de-moi-x86 .header-Q1L .frame-18-wGA {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}

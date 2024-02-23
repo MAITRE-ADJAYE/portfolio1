@@ -1,0 +1,234 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 148.2rem;
+}.acceuil-HGJ {
+  width: 100%;
+  height: 160rem;
+  position: relative;
+  background: linear-gradient(180deg, #a0cf93 -0%, #fefcfe 100%);
+}
+.acceuil-HGJ .auto-group-unrs-W94 {
+  box-sizing: border-box;
+  padding: 8.8rem 5.2rem 12.5rem 5.2rem;
+  width: 128.2rem;
+  height: 42.1rem;
+  position: absolute;
+  left: 11.8rem;
+  top: 18.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/comi-2-1-bg.png');
+}
+.acceuil-HGJ .auto-group-unrs-W94 .paragraphe-MJ6 {
+  margin-right: 7rem;
+  box-sizing: border-box;
+  padding: 0 28.4rem;
+  width: 110.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.acceuil-HGJ .auto-group-unrs-W94 .paragraphe-MJ6 .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-g5U {
+  max-width: 54rem;
+  text-align: center;
+  font-size: 9.096rem;
+  font-weight: 100;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+}
+.acceuil-HGJ .frame-2-Hqx {
+  width: 113.1416rem;
+  height: 50.3rem;
+  position: absolute;
+  left: 20.0542rem;
+  top: 72.55rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.acceuil-HGJ .frame-2-Hqx .paragraphe-oZQ {
+  margin: 14.35rem 9.642rem 14.35rem 0rem;
+  box-sizing: border-box;
+  padding: 0 5.95rem;
+  height: calc(100% - 28.7rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.acceuil-HGJ .frame-2-Hqx .paragraphe-oZQ .gfvzvzuyvqehvqhbvkhqevh-evfdbhjdhjb-v8E {
+  max-width: 48.4rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: IM FELL French Canon, 'Source Sans Pro';
+}
+.acceuil-HGJ .frame-2-Hqx .img-20240211-wa0008-2-2wx {
+  width: 43.2rem;
+  height: 50.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.acceuil-HGJ .header-ZS6 {
+  box-sizing: border-box;
+  padding: 2.748rem 4.082rem 2.748rem 8.1rem;
+  width: 131.8778rem;
+  height: 10.0435rem;
+  position: absolute;
+  left: 16.3222rem;
+  top: 2.3rem;
+  overflow: hidden;
+}
+.acceuil-HGJ .header-ZS6 .frame-16-U3G {
+  box-sizing: border-box;
+  padding: 0.54rem 0rem 0.54rem 2.548rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.acceuil-HGJ .header-ZS6 .frame-16-U3G .btnmenuclick-NPY {
+  margin: 0.284rem 7.748rem 0.184rem 0rem;
+  width: 9.5rem;
+  height: calc(100% - 0.4685rem);
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  text-decoration-line: underline;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-HGJ .header-ZS6 .frame-16-U3G .btnmenusimple-pWS {
+  margin-right: 5.2rem;
+  width: 19.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-HGJ .header-ZS6 .frame-16-U3G .btnmenusimple-JgW {
+  margin-right: 5.2rem;
+  width: 8.4rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-HGJ .header-ZS6 .frame-16-U3G .btnmenusimple-z3Y {
+  margin-right: 5.2rem;
+  width: 16.5rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-HGJ .header-ZS6 .frame-16-U3G .btnmenusimple-gh4 {
+  margin-right: 5.2rem;
+  width: 24.8rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-HGJ .header-ZS6 .frame-16-U3G .btnmenusimple-oFt {
+  width: 9.6rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #fdfdff;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.acceuil-HGJ .header-uZp {
+  width: 9.475rem;
+  height: 9.475rem;
+  position: absolute;
+  left: 120.9rem;
+  top: 32.8247rem;
+  overflow: hidden;
+}
+.acceuil-HGJ .header-uZp .frame-18-Erz {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
